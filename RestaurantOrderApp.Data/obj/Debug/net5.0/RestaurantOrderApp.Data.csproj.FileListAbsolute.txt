@@ -1,0 +1,15 @@
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\bin\Debug\net5.0\RestaurantOrderApp.Data.deps.json
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\bin\Debug\net5.0\RestaurantOrderApp.Data.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\bin\Debug\net5.0\ref\RestaurantOrderApp.Data.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\bin\Debug\net5.0\RestaurantOrderApp.Data.pdb
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\bin\Debug\net5.0\RestaurantOrderApp.Domain.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\bin\Debug\net5.0\RestaurantOrderApp.Domain.pdb
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.csproj.CopyComplete
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\ref\RestaurantOrderApp.Data.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Data\obj\Debug\net5.0\RestaurantOrderApp.Data.pdb

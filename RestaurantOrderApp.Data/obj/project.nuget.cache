@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bl1fnQhUoT12lnOeUUj+UkQC0Mgnt+fpNhGxVoWMC33Jw6r9tciGnhcWXa53cDVeSjWniSvemCltvtEUuxZw8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\source\\repos\\RestaurantOrderAppApi\\RestaurantOrderApp.Data\\RestaurantOrderApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.4\\microsoft.entityframeworkcore.analyzers.5.0.4.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.4\\microsoft.entityframeworkcore.relational.5.0.4.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

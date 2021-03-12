@@ -1,0 +1,15 @@
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\bin\Debug\net5.0\RestaurantOrderApp.Application.deps.json
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\bin\Debug\net5.0\RestaurantOrderApp.Application.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\bin\Debug\net5.0\ref\RestaurantOrderApp.Application.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\bin\Debug\net5.0\RestaurantOrderApp.Application.pdb
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\bin\Debug\net5.0\RestaurantOrderApp.Domain.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\bin\Debug\net5.0\RestaurantOrderApp.Domain.pdb
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.csproj.CopyComplete
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\ref\RestaurantOrderApp.Application.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Application\obj\Debug\net5.0\RestaurantOrderApp.Application.pdb

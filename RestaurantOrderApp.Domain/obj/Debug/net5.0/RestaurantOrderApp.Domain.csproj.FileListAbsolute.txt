@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\bin\Debug\net5.0\RestaurantOrderApp.Domain.deps.json
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\bin\Debug\net5.0\RestaurantOrderApp.Domain.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\bin\Debug\net5.0\ref\RestaurantOrderApp.Domain.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\bin\Debug\net5.0\RestaurantOrderApp.Domain.pdb
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\RestaurantOrderApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\RestaurantOrderApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\RestaurantOrderApp.Domain.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\RestaurantOrderApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\RestaurantOrderApp.Domain.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\ref\RestaurantOrderApp.Domain.dll
+C:\Users\Bruno\source\repos\RestaurantOrderAppApi\RestaurantOrderApp.Domain\obj\Debug\net5.0\RestaurantOrderApp.Domain.pdb

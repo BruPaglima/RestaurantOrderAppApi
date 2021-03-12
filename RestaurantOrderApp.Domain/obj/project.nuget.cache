@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1nN5WOABJQmTiT3mD1kWdY7byAkkXWCwXUz9Vw4s2S57D8odmaWy8aVoLp46VhGgFlb2AsnH3K55PUFTQ2JSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\source\\repos\\RestaurantOrderAppApi\\RestaurantOrderApp.Domain\\RestaurantOrderApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
